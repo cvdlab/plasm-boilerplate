@@ -41,10 +41,10 @@ module.exports = function (object, scene, domElement) {
   input.setAttribute('id', 'three-trackball-input');
   input.setAttribute('type', 'text');
   input.setAttribute('autofocus', 'autofocus');
-  document.body.appendChild(input);
   input.style.position = 'absolute';
   input.style.width = '0px';
   input.style.left = '-1000px';
+  domElement.appendChild(input);
 
   // API
 
