@@ -1,0 +1,14 @@
+{
+  "name": "plasm-boilerplate",
+  "repo": "cvdlab/plasm-boilerplate",
+  "description": "PLaSM boilerplate",
+  "version": "0.0.1",
+  "keywords": [
+    "PLaSM",
+    "CAD"
+  ],
+  "dependencies": {
+    "cvdlab/plasm": "*"
+  },
+  "license": "MIT"
+}
