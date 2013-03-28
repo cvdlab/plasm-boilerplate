@@ -13,8 +13,9 @@
 
   <script src="build/build.js"></script>
   <script>
-    var plasm = require('cvdlab-plasm');
-    var app = plasm.Viewer('plasm');
+    var plasm_fun = require('cvdlab-plasm-fun');
+    var PLASM = plasm_fun('plasm');
+    var plasm = PLASM.plasm;
   </script>
 </body>
 </html>
