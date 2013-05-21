@@ -4,7 +4,11 @@ PLaSM boilerplate
 
 ## Installation
 
-    npm install plasm-boilerplate
+    git clone git@github.com:cvdlab/plasm-boilerplate.git
+    cd plasm-boilerplate
+    component install -d
+    component build -d
+    
 
 ## LICENSE
 
