@@ -14,7 +14,7 @@ Install [Component](https://github.com/component/component)
    
 ### Installation
 
-    git clone git@github.com:cvdlab/plasm-boilerplate.git
+    git clone git://github.com/cvdlab/plasm-boilerplate.git
     cd plasm-boilerplate
     component install -d
     component build -d
