@@ -10,7 +10,7 @@ Install [Node.js](http://nodejs.org/)
 
 Install [Component](https://github.com/component/component)  
 
-    npm install -g component
+    sudo npm install -g component
    
 ### Installation
 
